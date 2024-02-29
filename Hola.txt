@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 Hola como estan
-=======
-HOLA ESTE ES EL VIEJO
 
-HOla este es pull normal
->>>>>>> 8238c16b2dde26918be36d2c9ba6c9303018776a
+
+
+
+
